@@ -1,5 +1,4 @@
 # CZ4042---Neural-Networks-and-Deep-Learning
-# NLP-assignment2
 
 The codes can be found in the folder named "source codes". There are different .py files for different experiments that we ran.
 
